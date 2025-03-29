@@ -1,0 +1,9 @@
+[package]
+name = "m3u"
+version = "0.1.0"
+description = "Parser for m3u(8) files"
+license = "BSD-3-Clause"
+authors = ["Miika Alikirri <duck@duckie.fi>"]
+edition = "2021"
+
+[dependencies]
